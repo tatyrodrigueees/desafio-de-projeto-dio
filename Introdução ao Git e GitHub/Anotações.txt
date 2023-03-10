@@ -1,0 +1,47 @@
+Introdução ao Git e GitHub
+
+Introdução ao Git:
+
+O Git é um sistema de controle de revisão distribuído, rápido, escalável e com um conjunto de comandos incomumente rico que oferece operações de alto nível 
+e acesso completo aos seus recursos. De longe, o sistema de controle de versão moderno mais usado no mundo hoje é o Git. O Git é um projeto de código aberto maduro 
+e com manutenção ativa desenvolvido em 2005 por Linus Torvalds, o famoso criador do kernel do sistema operacional Linux. Um número impressionante de projetos de 
+software depende do Git para controle de versão, incluindo projetos comerciais e de código-fonte aberto. Os desenvolvedores que trabalharam com o Git estão bem 
+representados no pool de talentos de desenvolvimento de software disponíveis e funcionam bem em uma ampla variedade de sistemas operacionais 
+e IDEs (Ambientes de Desenvolvimento Integrado).
+
+Sistema de controle: o Git pode ser utilizado para armazenar conteúdo - principalmente códigos devido aos outros recursos que oferece.
+
+Sistema de controle de versão: o código armazenado no Git muda continuamente à medida que mais código é adicionado. Além disso, várias pessoas
+diferentes podem adicionar códigos em paralelo. Um sistema de controle de versão mantém um histórico das mudanças, permitindo consultar ou retornar 
+à uma versão anterior do código.
+
+Sistema de controle de versão distribuída: o Git possui um repositório remoto, que fica armazenado em um servidor, e um repositório local, no computador 
+de cada pessoa envolvida (analista, desenvolvedor, gestor). Ou seja, o código não fica centralizado apenas em um servidor central, qualquer pessoa autorizada 
+pode ter acesso a uma cópia completa do código, modificá-la e propor alterações no repositório remoto.
+
+Portanto, o Git permite: armazenar códigos; que várias pessoas trabalhem em um projeto ao mesmo tempo; voltar à uma versão antiga dos códigos caso o projeto 
+mude ou um erro seja introduzido; que várias versões do projeto corram em paralelo; e que diferentes pessoas tenham acesso a uma cópia do repositório remoto.
+
+
+Introdução ao GitHub:
+
+O GitHub é um provedor de hospedagem na internet para arquivos e códigos (repositório remoto) com sistema de controle de versão distribuída usando o Git. 
+Ele é o maior provedor de hospedagem de código-fonte desde abril de 2020, sendo muito comumente usado para hospedar projetos de código aberto.
+Além das funcionalidades do Git, o website também oferece outros recursos e serviços, dentre eles:
+
+* Controle de acesso.
+
+* Colaboração através de issues, wikis, discussions e outros.
+
+* Documentação, incluindo renderização automática de arquivos README em uma variedade de formatos de arquivo semelhantes ao Markdown. Ver sintaxe básica de 
+escrita e formatação no GitHub.
+
+* Visualização de arquivos e dados, como dados geoespaciais, PDF e outros.
+
+* Recursos de redes sociais.
+
+* GitHub Actions, que permite o teste, lançamento e implementação de softwares em uma única plataforma.
+
+* GitHub Pages, para hospedagem de blogs, livros, documentação de softwares, e outros tipos de páginas web.
+
+* GitHub Enterprise, uma versão autogerenciada para empresas.

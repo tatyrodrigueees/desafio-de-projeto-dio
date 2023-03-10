@@ -1,0 +1,33 @@
+Pensamento Computacional:
+
+Processo de pensamento envolvido na expressão de 
+soluçõesem passos computacionais ou algoritmos que 
+podem serimplementados no computador.
+
+(Aho, 2011; Lee, 2016)
+
+
+* Raciocínio Lógico
+Raciocínio lógico é uma forma
+de pensamento estruturado, ou raciocínio,
+que permite encontrar a conclusão ou determinar a 
+resoluçãode um problema. é uma formade pensamento 
+estruturado, ou raciocínio, que permite encontrar 
+a conclusão ou determinar a resolução de um problema.
+
+* Objetivo Geral
+É preciso coompreender como executar cada etapa de
+um pensamento computacional.
+
+"If you can't solve a problem,
+then there is an easier
+problem that you can solve: find it"
+
+George Polya – professor e matemático
+
+Primeiro passo da resolução de problemas dentro do conceito
+de pensamento computacional
+"Dado um problema complexo, devemos quebra-lo
+em problemas menores. Portanto, problemas
+mais fáceis e gerenciáveis."
+
