@@ -5,9 +5,9 @@ Repositório criado para o desafio de projeto, incluir as atividades da Digital 
 
 ## ✏ Atividades:
 
-- [x] ~~Introdução à Programação e Pensamento Computacional~~
-- [x] ~~Trabalhando em Equipes Ágeis~~
-- [x] ~~Introdução ao Git e ao GitHub~~
+- [x] ~~Introdução à Programação e Pensamento Computacional~~    [Certificado](https://github.com/tatyrodrigueees/desafio-de-projeto-dio/blob/main/Certificados/Introdu%C3%A7%C3%A3o%20%C3%A1%20programa%C3%A7%C3%A3o%20e%20pensamento%20computacional.pdf)
+- [x] ~~Trabalhando em Equipes Ágeis~~     [Certificado](https://github.com/tatyrodrigueees/desafio-de-projeto-dio/blob/main/Certificados/Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20ao%20GitHub.pdf)
+- [x] ~~Introdução ao Git e ao GitHub~~    [Certificado](https://github.com/tatyrodrigueees/desafio-de-projeto-dio/blob/main/Certificados/Trabalhando%20em%20Equipes%20%C3%81geis.pdf)
 - [ ] Dominando IDEs Java
 - [ ] Aprendendo a Sintaxe Java
 - [ ] Lógica Condicional e Controle de Fluxos em Java
